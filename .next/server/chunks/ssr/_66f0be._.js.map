@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/app/layout.tsx"],"sourcesContent":["import \"@/app/ui/global.css\";\nimport { inter } from \"@/app/ui/fonts\";\nexport default function RootLayout({\n  children,\n}: {\n  children: React.ReactNode;\n}) {\n  return (\n    <html lang=\"en\">\n      <body className={`${inter.className}`}>{children}</body>\n    </html>\n  );\n}\n"],"names":[],"mappings":";;;;AACA;AAAA;;;;AACe,SAAS,WAAW,EACjC,QAAQ,EAGT;IACC,qBACE,ucAAC;QAAK,MAAK;kBACT,cAAA,ucAAC;YAAK,WAAW,GAAG,6KAAA,CAAA,QAAK,CAAC,SAAS,EAAE;sBAAG;;;;;;;;;;;AAG9C"}},
+    {"offset": {"line": 33, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 44, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/node_modules/.pnpm/next@15.0.0_react-dom@19.0.0-rc-cd22717c-20241013_react@19.0.0-rc-cd22717c-20241013__react@19.0.0-rc-cd22717c-20241013/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = require('../../module.compiled').vendored[\n  'react-rsc'\n].ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":";AAAAA,OAAOC,OAAO,GAAGC,QAAQ,oQAAyBC,QAAQ,CACxD,YACD,CAACC,kBAAkB"}},
+    {"offset": {"line": 46, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

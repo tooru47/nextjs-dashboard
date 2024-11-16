@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/app/dashboard/layout.tsx"],"sourcesContent":["import SideNav from \"../ui/dashboard/sidenav\";\r\n\r\nexport default function Layout({ children }: { children: React.ReactNode }) {\r\n  return (\r\n    <div className=\"flex h-screen flex-col md:flex-row md:overflow-hidden\">\r\n      <div className=\"w-full flex-none md:w-64\">\r\n        <SideNav />\r\n      </div>\r\n      <div className=\"flex-grow p-6 md:overflow-y-auto\">{children}</div>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS,OAAO,EAAE,QAAQ,EAAiC;IACxE,qBACE,ucAAC;QAAI,WAAU;;0BACb,ucAAC;gBAAI,WAAU;0BACb,cAAA,ucAAC,kIAAA,CAAA,UAAO;;;;;;;;;;0BAEV,ucAAC;gBAAI,WAAU;0BAAoC;;;;;;;;;;;;AAGzD"}},
+    {"offset": {"line": 45, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
