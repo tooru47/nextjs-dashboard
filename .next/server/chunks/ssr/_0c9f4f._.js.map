@@ -2,7 +2,7 @@
   "version": 3,
   "sources": [],
   "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/app/dashboard/page.tsx"],"sourcesContent":["export default function Page() {\r\n  return <h1>Dashboard Page</h1>;\r\n}\r\n"],"names":[],"mappings":";;;;;AAAe,SAAS;IACtB,qBAAO,ucAAC;kBAAG;;;;;;AACb"}},
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/app/dashboard/page.tsx"],"sourcesContent":["export default function Page() {\n  return <h1>Dashboard Page</h1>;\n}\n"],"names":[],"mappings":";;;;;AAAe,SAAS;IACtB,qBAAO,ucAAC;kBAAG;;;;;;AACb"}},
     {"offset": {"line": 21, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
     {"offset": {"line": 32, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/.next-internal/server/app/dashboard/page/actions.js"],"sourcesContent":["__turbopack_export_value__({\n});"],"names":[],"mappings":"AAAA,2BAA2B,CAC3B"}},
     {"offset": {"line": 33, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
