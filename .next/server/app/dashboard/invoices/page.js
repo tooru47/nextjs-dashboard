@@ -6,6 +6,7 @@ runtime.loadChunk("server/chunks/ssr/[root of the server]__dd6f63._.js");
 runtime.loadChunk("server/chunks/ssr/[root of the server]__b94e07._.css");
 runtime.loadChunk("server/chunks/ssr/node_modules__pnpm_67c9d9._.js");
 runtime.loadChunk("server/chunks/ssr/[root of the server]__43e860._.js");
-runtime.loadChunk("server/chunks/ssr/_75f8b8._.js");
+runtime.loadChunk("server/chunks/ssr/[root of the server]__8ec06b._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules__pnpm_a5b7b1._.js");
 runtime.getOrInstantiateRuntimeModule("[project]/.next-internal/server/app/dashboard/invoices/page/actions.js [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH);
 module.exports = runtime.getOrInstantiateRuntimeModule("[project]/node_modules/.pnpm/next@15.0.0_react-dom@19.0.0-rc-cd22717c-20241013_react@19.0.0-rc-cd22717c-20241013__react@19.0.0-rc-cd22717c-20241013/node_modules/next/dist/esm/build/templates/app-page.js?page=/dashboard/invoices/page { MODULE_0 => \"[project]/app/layout.tsx [app-rsc] (ecmascript, Next.js server component)\", MODULE_1 => \"[project]/node_modules/.pnpm/next@15.0.0_react-dom@19.0.0-rc-cd22717c-20241013_react@19.0.0-rc-cd22717c-20241013__react@19.0.0-rc-cd22717c-20241013/node_modules/next/dist/client/components/not-found-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_2 => \"[project]/app/dashboard/layout.tsx [app-rsc] (ecmascript, Next.js server component)\", MODULE_3 => \"[project]/app/dashboard/invoices/page.tsx [app-rsc] (ecmascript, Next.js server component)\" } [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH).exports;
